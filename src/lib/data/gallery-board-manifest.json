@@ -1,0 +1,170 @@
+[
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-004.jpeg",
+    "alt": "Portfolio gallery image 04",
+    "ratio": "short",
+    "position": "center center",
+    "sourceName": "Screenshot_20260402_174204_Instagram.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-005.jpeg",
+    "alt": "Portfolio gallery image 05",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160809_124.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-009.jpeg",
+    "alt": "Portfolio gallery image 09",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160952_441.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-010.jpeg",
+    "alt": "Portfolio gallery image 10",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164641_983.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-011.jpeg",
+    "alt": "Portfolio gallery image 11",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160809_132.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-012.jpeg",
+    "alt": "Portfolio gallery image 12",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160954_653.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-013.jpeg",
+    "alt": "Portfolio gallery image 13",
+    "ratio": "landscape",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164641_984.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-015.jpeg",
+    "alt": "Portfolio gallery image 15",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160957_814.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-016.jpeg",
+    "alt": "Portfolio gallery image 16",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164641_986.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-017.jpeg",
+    "alt": "Portfolio gallery image 17",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160809_139.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-018.jpeg",
+    "alt": "Portfolio gallery image 18",
+    "ratio": "landscape",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164641_992.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-020.jpeg",
+    "alt": "Portfolio gallery image 20",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164718_199.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-029.jpeg",
+    "alt": "Portfolio gallery image 29",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160836_829.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-031.jpeg",
+    "alt": "Portfolio gallery image 31",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160836_831.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-032.jpeg",
+    "alt": "Portfolio gallery image 32",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164739_735.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-036.jpeg",
+    "alt": "Portfolio gallery image 36",
+    "ratio": "landscape",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164743_422.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-037.jpeg",
+    "alt": "Portfolio gallery image 37",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160836_834.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-038.jpeg",
+    "alt": "Portfolio gallery image 38",
+    "ratio": "landscape",
+    "position": "center center",
+    "sourceName": "IMG_20260402_164744_656.jpg.jpeg"
+  },
+  {
+    "src": "/images/gallery-board-uploads/gallery-upload-039.jpeg",
+    "alt": "Portfolio gallery image 39",
+    "ratio": "landscape",
+    "position": "center center",
+    "sourceName": "IMG_20260402_160836_835.jpg.jpeg"
+  },
+  {
+    "src": "/images/selected-work-12.jpeg",
+    "alt": "Archive diptych portrait",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "selected-work-12.jpeg"
+  },
+  {
+    "src": "/images/selected-work-15.jpeg",
+    "alt": "Archive silhouette portrait",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "selected-work-15.jpeg"
+  },
+  {
+    "src": "/images/selected-work-17.jpeg",
+    "alt": "Archive monochrome studio portrait",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "selected-work-17.jpeg"
+  },
+  {
+    "src": "/images/selected-work-18.jpeg",
+    "alt": "Archive monochrome figure study",
+    "ratio": "tall",
+    "position": "center center",
+    "sourceName": "selected-work-18.jpeg"
+  },
+  {
+    "src": "/images/selected-work-19.jpeg",
+    "alt": "Archive editorial stair portrait",
+    "ratio": "portrait",
+    "position": "center center",
+    "sourceName": "selected-work-19.jpeg"
+  }
+]
