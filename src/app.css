@@ -407,6 +407,7 @@ img {
 
 .hero-copy .eyebrow {
   color: rgba(247, 241, 235, 0.62);
+  padding-bottom: 8px;
 }
 
 .intro-card {
@@ -1471,9 +1472,9 @@ img {
   }
 
   .hero-copy h1 {
-    max-width: 100%;
-    font-size: clamp(1.05rem, 5.4vw, 1.45rem);
-    line-height: 1.02;
+    max-width: 19ch;
+    font-size: clamp(1rem, 5.1vw, 1.26rem);
+    line-height: 1;
     letter-spacing: -0.04em;
   }
 
