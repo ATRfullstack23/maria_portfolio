@@ -653,8 +653,15 @@ img {
 }
 
 .film-item {
+  position: relative;
   display: grid;
   gap: 10px;
+}
+
+.film-item .editorial-photo.film-thumb {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .film-item span,
@@ -673,6 +680,17 @@ img {
 
 .film-thumb {
   aspect-ratio: 1 / 0.74;
+}
+
+.film-item .photo-surface.film-thumb {
+  border-radius: 0;
+  overflow: hidden;
+  outline: 1px solid rgba(255, 255, 255, 0.18);
+  outline-offset: 0;
+}
+
+.film-item .photo-img {
+  border-radius: 0;
 }
 
 .current-reel-photo {
